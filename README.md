@@ -4,4 +4,4 @@ Para visualizar as estruturas e algoritmos específicos, utilizados para a resol
 
 ### Problemas resolvidos
 
-- [URI](URI)
+- [URI](URI) ([visualizar perfil](https://www.urionlinejudge.com.br/judge/pt/profile/162532))
