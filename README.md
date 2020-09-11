@@ -7,6 +7,6 @@ Para visualizar as estruturas e algoritmos específicos, utilizados para a resol
 - [URI](URI) <small>(<a href="https://www.urionlinejudge.com.br/judge/pt/profile/162532" target="_blank">visualizar perfil</a>)</small>
 
 
-Chegando aqui em breve:
-códigos codeforces, hackerrank, hackerearth
-bots auxiliares
+### Chegando aqui em breve:
+- códigos codeforces, hackerrank, hackerearth
+- bots auxiliares
